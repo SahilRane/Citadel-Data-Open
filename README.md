@@ -1,5 +1,5 @@
 # Citadel-Data-Open
-Project submission for the Citadel Data Open held from 18th October, 2021 to 24th October, 2021.
+3rd Place project submission for the Citadel Data Open held from 18th October, 2021 to 24th October, 2021.
 
 Citadel Data Open is a datathon competition taking place throughout the year at a series of top universities. At each event, participants work in teams to 
 work through a large and complex dataset and then present their findings to a panel of judges. I was selected to be one of 75 students participating in the 
